@@ -1,16 +1,18 @@
-### Hi there 👋
+Welcome to my GitHub profile! I'm Iman Kurnia, a passionate Cyber Security from Indonesia. Here you'll find a variety of projects I'm working on.
 
-<!--
-**5thWindShadow/5thWindShadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Undergraduate Information System Student from Gunadarma University and Certified Ethical Hacker (CEH)
+I'm a cyber security enthusiast especially in Blue Team.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Dorkinator] [(Link)](https://github.com/5thWindShadow/Dorkinator): a powerful Google Dorking Link Generator tool designed for information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
+
+Feel free to explore more in my repositories!
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/imankrnia/)
+- [Medium](https://medium.com/@imankrnia)
+
+📫 Feel free to contact me: imankurnia1412@gmail.com
