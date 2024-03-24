@@ -8,7 +8,8 @@ I'm a cyber security enthusiast especially in Blue Team.
 
 ## Projects
 
-[Dorkinator] [(Link)](https://github.com/5thWindShadow/Dorkinator): a powerful Google Dorking Link Generator tool designed for information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
+1. **Dorkinator** [(Link)](https://github.com/5thWindShadow/Dorkinator) 
+A powerful Google Dorking Link Generator tool designed for information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
 
 Feel free to explore more in my repositories!
 
