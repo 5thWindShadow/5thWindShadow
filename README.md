@@ -7,7 +7,7 @@ Information System student with a strong background of business and IT, currentl
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,37 +19,73 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004d7a?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Vulnerability Management
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenVAS-48A348?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nessus-005E8A?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OWASP_ZAP-231F20?&style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
+### Web App Firewall
+</div>
+    <img src="https://img.shields.io/badge/-ModSecurity-FF5733?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Threat Intelligence
+</div>
+    <img src="https://img.shields.io/badge/-OpenCTI-3A83F1?&style=for-the-badge&logoColor=white" />
+</div>
+
+### IT Infrastructure & DevOps
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+### Pentesting
+<div>
+  <img src="https://img.shields.io/badge/-Burp_Suite-FF6F00?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-sqlmap-000000?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Metasploit-005F87?&style=for-the-badge&logoColor=white" />
+</div>
+
+### AI & Automation
+<div>
+  <img src="https://img.shields.io/badge/-n8n-00B2A9?&style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ollama-000000?&style=for-the-badge&logo=Ollama&logoColor=white" />
+</div>
+
+### Programming Languages
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CEH-CC0000?&style=for-the-badge&logoColor=white&labelColor=CC0000&label=EC--Council" />
+  <img src="https://img.shields.io/badge/-CHFI-000000?&style=for-the-badge&logoColor=white&labelColor=000000&label=EC--Council" />
 </div>
+
 
 ## Projects
 - Detection Lab
