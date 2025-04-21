@@ -1,7 +1,7 @@
-# Hello, I'm Iman Kurnia
+# Hello, I'm Iman Kurnia 
 <a href="https://linkedin.com/in/imankrnia/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Information System student with a strong background of Cyber Security and Data, currently focusing on expanding knowledge and skills in Cyber Security with a focus on Blue Team operations. As an Information System Student, Possess a comprehensive understanding of system and data management, emphasizing roles such as Security Analyst, Security Governance, and Security Architect. Seeking to leverage analytical skills and knowledge in cybersecurity tools and methodologies to protect and enhance organizational security infrastructures.
+Information System student with a strong background of Cyber Security and Data, currently focusing on expanding knowledge and skills in Cyber Security with a focus on Blue Team operations. Seeking to leverage analytical skills and knowledge in cybersecurity tools and methodologies to protect and enhance organizational security infrastructures.
 
 ## Certifications
 <div>
