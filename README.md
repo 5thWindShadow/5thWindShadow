@@ -12,19 +12,18 @@ Information System student with a strong background of Cyber Security and Data, 
 ## Role 
 <div >
     <img src="https://img.shields.io/badge/-Blue_Team-0A66C2?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Purple_Team-800080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Iman Kurnia's Cyber Security Portofolio
 
 | Project                                         | Link to Project         | Skills / Knowledges         |
 |-----------------------------------------------|----------------------------|---------------------------|
-| SIEM Implementation          | <a href="https://google.com">Link</a>| `SIEM`, `Wazuh`, |
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>| abc |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab| abc |
-| Incident Response Planning and Execution      | SOC Automation Lab| abc |
-| Case Management with TheHive                  | SOC Automation Lab| abc |
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab| abc |
+| **Automated SSH Brute-Force Blocking with Wazuh** | <a href="https://google.com">Link</a> | Wazuh Rule Development, Wazuh Active Response, SSH Security, Linux Security, Brute-Force Mitigation |
+| **Wazuh Custom Decoder for Browser History Monitoring**      |<a href="https://google.com">Link</a>| Wazuh Custom Decoders, Wazuh Rule Development, Regular Expressions (RegEx), Log Parsing & Analysis, Data Extraction|
+| **Enhanced Web Security: Wazuh & ModSecurity WAF Integration**    | <a href="https://google.com">Link</a>| WAF (ModSecurity), Wazuh Integration, Web Application Security, Log Correlation, Apache/Nginx Security |
+| **Deploying & Configuring Elastic Fleet for Centralized Agent Management**                  | <a href="https://google.com">Link</a>| Elastic Stack, Elastic Fleet Server, Elastic Agent Management, Data Integration, Centralized Configuration |
+| **Integrating Suricata NIDS with Wazuh for Enhanced Network Threat Detection** | <a href="https://google.com">Link</a>| NIDS (Suricata), Network Security Monitoring (NSM), Wazuh Integration, Threat Detection Rules, Log Parsing (JSON) |
+| **Self-Hosted Wazuh SIEM on a Linux VPS**          | <a href="https://google.com">Link</a>| VPS Management, Linux Server Administration, Wazuh Deployment & Configuration, SIEM Architecture, Network Configuration (VPS), Server Security Hardening, Firewall Management (e.g., ufw/iptables) |
 
 ## Tools
 <div>
