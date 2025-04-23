@@ -18,7 +18,7 @@ Information System student with a strong background of Cyber Security and Data, 
 
 | Project                                         | Link         | Skills / Knowledges         |
 |-----------------------------------------------|----------------------------|---------------------------|
-| **Automated SSH Brute-Force Blocking with Wazuh** | <a href="https://github.com/5thWindShadow/Iman_Portofolio/tree/main/Wazuh_SSH_Bruteforce">Link</a> | Wazuh Rule Development, Wazuh Active Response, SSH Security, Linux Security, Brute-Force Mitigation |
+| **Automated SSH Brute-Force(Delayed) Blocking with Wazuh** | <a href="https://github.com/5thWindShadow/Iman_Portofolio/tree/main/Wazuh_SSH_Bruteforce">Link</a> | Wazuh Rule Development, Wazuh Active Response, SSH Security, Linux Security, Brute-Force Mitigation |
 | **Wazuh Custom Decoder for Browser History Monitoring**      |<a href="https://github.com/5thWindShadow/Iman_Portofolio/tree/main/Wazuh_Custom_Decoder_History_Browser">Link</a>| Wazuh Custom Decoders, Wazuh Rule Development, Regular Expressions (RegEx), Log Parsing & Analysis, Data Extraction|
 | **Enhanced Web Security: Wazuh & ModSecurity WAF Integration**    | <a href="https://google.com">Link</a>| WAF (ModSecurity), Wazuh Integration, Web Application Security, Log Correlation, Apache/Nginx Security |
 | **Deploying & Configuring Elastic Fleet for Centralized Agent Management**                  | <a href="https://google.com">Link</a>| Elastic Stack, Elastic Fleet Server, Elastic Agent Management, Data Integration, Centralized Configuration |
